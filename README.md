@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Utility Edge Banner" width="100%">
+</p>
+
 # ⚡ Utility Edge – Java Billing Management System
 
 A desktop-based Utility Billing Management System developed using **Java Swing**, **JDBC**, and **MySQL**. The application helps manage customers, generate utility bills, view reports, and maintain billing records through an easy-to-use graphical interface.
