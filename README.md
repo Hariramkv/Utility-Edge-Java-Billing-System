@@ -49,7 +49,45 @@ Utility-Edge-Java-Billing-System
 
 ## 📸 Screenshots
 
-Screenshots will be added soon.
+### 🔐 Login Screen
+
+![Login Screen](screenshots/login.png)
+
+---
+
+### 📊 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### 👥 Add Customer
+
+![Add Customer](screenshots/add-customer.png)
+
+---
+
+### ✅ Customer Added Successfully
+
+![Customer Added](screenshots/add-customer-acknowledge.png)
+
+---
+
+### 📝 Generate Bill
+
+![Generate Bill](screenshots/generate-bill.png)
+
+---
+
+### 📈 Reports
+
+![Reports](screenshots/report.png)
+
+---
+
+### ⚙️ Settings
+
+![Settings](screenshots/settings.png)
 
 ## 🔮 Future Enhancements
 
